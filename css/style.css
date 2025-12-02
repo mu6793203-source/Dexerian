@@ -4,6 +4,9 @@ color: white;
 align-items: center;
 background-size: cover;
 }
+a{
+color:white;
+}
 header{
     background-color:#1f0202;
     height: 120px;
